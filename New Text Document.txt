@@ -1,0 +1,11 @@
+http://gr.cdnnetwork.site:8880/sub/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyNGdiMTAwIiwiYWNjZXNzIjoic3Vic2NyaXB0aW9uIiwiaWF0IjoxNjgxMTE4NzAxfQ.qmVIfkTlVvGZasSO39bepVW170dY_qgxFD-vTEs2xps
+
+server :
+IP: 141.11.123.246
+Port: 9011
+password : 09136267801Amir#
+
+
+XUI :
+name : nokhodchi
+password : 09136267801Amir#
